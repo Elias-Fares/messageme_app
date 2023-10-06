@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134870852263",
+    "project_id": "message-me-9d5bc",
+    "storage_bucket": "message-me-9d5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134870852263:android:081ce0d2aed60796193182",
+        "android_client_info": {
+          "package_name": "com.example.message_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFak6vPtotKEYD1F4xmssSOo9nFjbfpoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
